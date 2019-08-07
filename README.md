@@ -20,7 +20,7 @@
 ### Questions
 
 #### Question 1 - `printHelloWorld()`
-* Write a program that prints ‘Hello World’ to the screen.
+* Write a program that prints â€˜Hello Worldâ€™ to the screen.
 
 **Sample script**
 
@@ -35,8 +35,10 @@ Hello World
 ```
 
 
+<hr>
+
 #### Question 2 - `sumOfN(n)`
-* Write a program that asks the user for a number `n` and prints the sum of the numbers `1` to `n`
+* Write a program that asks the user for a numberÂ `n`Â and prints the sum of the numbers `1` toÂ `n`
 
 **Sample script**
 
@@ -57,6 +59,12 @@ console.log(sum3And5Multiples(17));
 ```
 
 
+
+
+
+
+
+<hr>
 
 #### Question 3 - `sum3And5Multiples(n)`
 * Write a program that asks the user for a number `n`, and prints the sum of numbers which are multiples of `3` or `5`, from values `1` to `n`.
@@ -84,12 +92,28 @@ console.log(sum3And5Multiples(17));
 
 
 
+<hr>
+
 #### Question 4 - `sumOrProduct(n)`
 * Write a program that asks the user for a number, `n`, then prompts for selection of computing the sum or product from `1` to `n`.
 
 
+
+<hr>
+
 #### Question 5 - `getMultiplicationTable()`
 * Write a program for that prints a multiplication table for the numbers up to 12
 
-#### Question 6 - `
+
+
+
+
+
+
+
+
+
+<hr>
+
+#### Question 6 - `printLeapYears()`
 * Write a program that prints the next 20 leap years
